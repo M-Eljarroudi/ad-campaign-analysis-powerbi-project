@@ -1,4 +1,4 @@
-# Ad Campaign Performance Dashboard
+# Ad Campaign Performance Analysis with Power BI
 
 A comprehensive Power BI analytics project analyzing digital advertising campaign performance across multiple platforms. This project transforms raw event-level data into an interactive business intelligence dashboard, providing actionable insights on campaign effectiveness, audience engagement, and conversion optimization.
 
