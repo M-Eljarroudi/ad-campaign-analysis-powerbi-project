@@ -230,10 +230,10 @@ Designed and built a **3-page interactive dashboard** in Power BI Desktop:
 ## 📈 Dashboard Previews
 
 **Dashboard Page 1 - Executive Overview**  
-![Dashboard Overview](Screenshot_report_1.jpg)
+![Dashboard Overview](screenshot_report_1.jpg)
 
 **Dashboard Page 2 - Time Analysis**  
-![Time Analysis](Screenshot_report_2.jpg)
+![Time Analysis](screenshot_report_2.jpg)
 
 **Dashboard Page 3 - Ad Insights**  
 ![Ad Insights](Screenshot_report_3.jpg)
@@ -249,7 +249,7 @@ Designed and built a **3-page interactive dashboard** in Power BI Desktop:
 ![Power Query Steps](power_query_steps.jpg)
 
 **Campaign ID Merge Process**  
-![Merge Process](Power_Query_Campaign_ID_Merge%_Process.jpg)
+![Merge Process](Power_Query_Campaign_ID_Merge%20_Process.jpg)
 
 **DAX Measures Library**  
 ![Measures](measures.jpg)
