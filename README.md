@@ -209,21 +209,34 @@ Designed and built a **3-page interactive dashboard** in Power BI Desktop:
 **Campaign Efficiency:**
 - Campaign_20_Winter had highest budget ($98.9K) but also highest CPA ($48.70)
 - Lower-budget campaigns demonstrated better cost efficiency
-- Top-performing campaign achieved $35.22 CPA
+- Top-performing campaign achieved $3.9 CPA
 
 **Audience Insights:**
 - Male users generated 54.7% of purchases (1,111 purchases)
-- 25-34 age group is the highest converting demographic (466 purchases)
+- 25-34 age group is the highest converting demographic (848 purchases)
 - Thursday and Friday show peak purchase activity (314 and 308 purchases respectively)
 
 **Platform & Format Performance:**
 - Facebook generated 63.52% of total events vs Instagram at 36.48%
 - Stories format drove highest engagement (128K events)
-- Peak purchase hours: 10 AM, 15 PM, and 20 PM (evening)
+- Peak purchase hours: 7 AM, 5 PM, and 10 PM (evening)
 
 **Interest Targeting:**
-- Health and finance interests generated highest event volumes (39.93K and 38.24K)
-- Technology showed strong performance relative to impression volume
+- Health, finance, and fashion interests generated the highest event volumes at 39.93K, 38.24K, and 38.01K events, with 216, 203, and 192 sales respectively.
+
+---
+
+## 🎯 Business Recommendations
+
+Based on the analysis, the following actions are recommended:
+
+1. **Reallocate Budget:** Shift spend away from high-CPA campaigns (Campaign_20, Campaign_46) toward more efficient performers (Campaign_27_Q3, Campaign_42_Summer)
+2. **Optimize Timing:** Increase ad spend on Thursdays and Fridays when conversion rates peak
+3. **Demographic Focus:** Double down on 25-34 male demographic with tailored creative
+4. **Platform Strategy:** Test reallocating some Facebook budget to Instagram given lower saturation
+5. **Creative Format:** Prioritize Stories and Image formats which show highest engagement
+6. **Interest Targeting:** Expand health, finance, and Fashion targeting based on strong performance
+7. **Hourly Optimization:** Schedule high-value ads during 7 AM, 5 PM, and 10 PM peak conversion windows
 
 ---
 
@@ -286,20 +299,6 @@ Designed and built a **3-page interactive dashboard** in Power BI Desktop:
 ## 📓 Dataset
 
 Source: [Kaggle - Digital Advertising Campaign Dataset](https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance)  
-
----
-
-## 🎯 Business Recommendations
-
-Based on the analysis, the following actions are recommended:
-
-1. **Reallocate Budget:** Shift spend away from high-CPA campaigns (Campaign_20, Campaign_46) toward more efficient performers
-2. **Optimize Timing:** Increase ad spend on Thursdays and Fridays when conversion rates peak
-3. **Demographic Focus:** Double down on 25-34 male demographic with tailored creative
-4. **Platform Strategy:** Test reallocating some Facebook budget to Instagram given lower saturation
-5. **Creative Format:** Prioritize Stories and Image formats which show highest engagement
-6. **Interest Targeting:** Expand health, finance, and Fashion targeting based on strong performance
-7. **Hourly Optimization:** Schedule high-value ads during 7 AM, 5 PM, and 10 PM peak conversion windows
 
 ---
 
